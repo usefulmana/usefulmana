@@ -42,6 +42,11 @@
 <br/>
 
 <!-- TODO-IST:START -->
+🏆  21,286 Karma Points           
+🌸  Completed 19 tasks today           
+🗓  Completed 58 tasks this week           
+✅  Completed 3,564 tasks so far           
+⏳  Longest streak is 56 days
 <!-- TODO-IST:END -->
 
 <summary>⚡ GitHub Stats</summary>

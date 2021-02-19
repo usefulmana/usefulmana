@@ -2,8 +2,8 @@
 
 ## I'm a Full-stack Developer!
 - 🔭 I’m currently looking for a job
-- 🌏 I’m from Vietnam and currently located in Ho Chi Minh City.
-- 💬️ Speak Vietnamese natively, and American English proficiently.
+- 🌏 I’m from Vietnam and currently located in Ho Chi Minh City
+- 💬️ Speak Vietnamese natively, and American English proficiently
 - 🌱 I’m currently learning Typescript and designing micro-service architecture
 - 🥅 2021 Goals: Contribute more to open-source projects and expand my networks
 - ⚡ Fun fact: I love to game and play piano

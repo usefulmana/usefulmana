@@ -38,10 +38,13 @@
 <br/>
 
 ---
+<summary>⚡ Todoist Stats</summarys
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 
 <summary>⚡ GitHub Stats</summary>
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=usefulmana&show_icons=true&hide_border=true&count_private=true&theme=radical" />
-
 
 <!--
 **usefulmana/usefulmana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -38,7 +38,8 @@
 <br/>
 
 ---
-<summary>⚡ Todoist Stats</summarys
+<summary>⚡ Todoist Stats</summary>
+<br/>
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->

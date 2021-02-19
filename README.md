@@ -13,12 +13,12 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pptocnosvtue55btlawgzvog8&cover_image=true&theme=novatorem)](https://open.spotify.com/user/pptocnosvtue55btlawgzvog8)
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | Email" width="25px" src="https://img.icons8.com/fluent/50/000000/gmail.png" />](mailto:alex.nguyen.3141@gmail.com)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="https://img.icons8.com/fluent/50/000000/linkedin.png" />](https://www.linkedin.com/in/anh-nguyen-5944b0167/)
-[<img align="left" alt="codeSTACKr | Facebook" width="25px" src="https://img.icons8.com/fluent/50/000000/facebook-new.png" />](https://www.facebook.com/profile.php?id=100041584824284)
-[<img align="left" alt="codeSTACKr | Discord" width="25px" src="https://img.icons8.com/fluent/50/000000/discord-logo.png" />](https://discordapp.com/users/1470463355882045455)
+[<img align="left" alt="Email" width="25px" src="https://img.icons8.com/fluent/50/000000/gmail.png" />](mailto:alex.nguyen.3141@gmail.com)
+[<img align="left" alt="LinkedIn" width="25px" src="https://img.icons8.com/fluent/50/000000/linkedin.png" />](https://www.linkedin.com/in/anh-nguyen-5944b0167/)
+[<img align="left" alt="Facebook" width="25px" src="https://img.icons8.com/fluent/50/000000/facebook-new.png" />](https://www.facebook.com/profile.php?id=100041584824284)
+[<img align="left" alt="Discord" width="25px" src="https://img.icons8.com/fluent/50/000000/discord-logo.png" />](https://discordapp.com/users/1470463355882045455)
 
-[<img align="left" alt="codeSTACKr | Discord" width="25px" src="https://img.icons8.com/fluent/50/000000/spotify.png" />](https://open.spotify.com/user/pptocnosvtue55btlawgzvog8)
+[<img align="left" alt="Discord" width="25px" src="https://img.icons8.com/fluent/50/000000/spotify.png" />](https://open.spotify.com/user/pptocnosvtue55btlawgzvog8)
 <br/>
 
 ### Languages and Tools:

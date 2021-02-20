@@ -10,30 +10,30 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pptocnosvtue55btlawgzvog8&cover_image=true&theme=novatorem)](https://open.spotify.com/user/pptocnosvtue55btlawgzvog8)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pptocnosvtue55btlawgzvog8&cover_image=true&theme=novatorem)](https://open.spotify.com/user/pptocnosvtue55btlawgzvog8 "Spotify")
 
 ### Connect with me:
-[<img align="left" alt="Email" width="25px" src="https://img.icons8.com/fluent/50/000000/gmail.png" />](mailto:alex.nguyen.3141@gmail.com)
-[<img align="left" alt="LinkedIn" width="25px" src="https://img.icons8.com/fluent/50/000000/linkedin.png" />](https://www.linkedin.com/in/anh-nguyen-5944b0167/)
-[<img align="left" alt="Facebook" width="25px" src="https://img.icons8.com/fluent/50/000000/facebook-new.png" />](https://www.facebook.com/profile.php?id=100041584824284)
-[<img align="left" alt="Discord" width="25px" src="https://img.icons8.com/fluent/50/000000/discord-logo.png" />](https://discordapp.com/users/1470463355882045455)
+[<img align="left" alt="Email" width="25px" src="https://img.icons8.com/fluent/50/000000/gmail.png" />](mailto:alex.nguyen.3141@gmail.com "Email")
+[<img align="left" alt="LinkedIn" width="25px" src="https://img.icons8.com/fluent/50/000000/linkedin.png" />](https://www.linkedin.com/in/anh-nguyen-5944b0167/ "LinkedIn")
+[<img align="left" alt="Facebook" width="25px" src="https://img.icons8.com/fluent/50/000000/facebook-new.png" />](https://www.facebook.com/profile.php?id=100041584824284 "Facebook")
+[<img align="left" alt="Discord" width="25px" src="https://img.icons8.com/fluent/50/000000/discord-logo.png" />](https://discordapp.com/users/1470463355882045455 "Discord")
 
-[<img align="left" alt="Discord" width="25px" src="https://img.icons8.com/fluent/50/000000/spotify.png" />](https://open.spotify.com/user/pptocnosvtue55btlawgzvog8)
+[<img align="left" alt="Spotify" width="25px" src="https://img.icons8.com/fluent/50/000000/spotify.png" />](https://open.spotify.com/user/pptocnosvtue55btlawgzvog8 "Spotify")
 <br/>
 
 ### Languages and Tools:
-[<img align="left" alt="JavaScript" width="25px" src="https://img.icons8.com/color/50/000000/javascript.png" />](a "Javascript")
-[<img align="left" alt="TypeScript" width="25px" src="https://img.icons8.com/color/50/000000/typescript.png" />](a "Typescript")
-[<img align="left" alt="Java" width="25px" src="https://img.icons8.com/color/50/000000/java.png"/>](a "Java")
-[<img align="left" alt="Python" width="25px" src="https://img.icons8.com/color/50/000000/python.png" />](a "Python")
-[<img align="left" alt="NodeJS" width="25px" src="https://img.icons8.com/color/50/000000/nodejs.png" />](a "NodeJS")
-[<img align="left" alt="React" width="25px" src="https://img.icons8.com/officel/50/000000/react.png" />](a "React")
-[<img align="left" alt="Spring" width="25px" src="https://img.icons8.com/color/50/000000/spring-logo.png"/>](a "Spring Framework")
-[<img align="left" alt="HTML5" width="25px" src="https://img.icons8.com/color/50/000000/html-5.png"/>](a "HTML5")
-[<img align="left" alt="CSS3" width="25px" src="https://img.icons8.com/color/50/000000/css3.png"/>](a "CSS3")
-[<img align="left" alt="Git" width="25px" src="https://img.icons8.com/color/50/000000/git.png"/>](a "Git")
-[<img align="left" alt="Github" width="25px" src="https://img.icons8.com/color/50/000000/github.png"/>](a "Github")
-[<img align="left" alt="AWS" width="25px" src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/>](a "AWS")
+[<img align="left" alt="JavaScript" width="25px" src="https://img.icons8.com/color/50/000000/javascript.png" />](https://www.javascript.com/ "Javascript")
+[<img align="left" alt="TypeScript" width="25px" src="https://img.icons8.com/color/50/000000/typescript.png" />](https://www.typescriptlang.org/ "Typescript")
+[<img align="left" alt="Java" width="25px" src="https://img.icons8.com/color/50/000000/java.png"/>](https://www.java.com/en/ "Java")
+[<img align="left" alt="Python" width="25px" src="https://img.icons8.com/color/50/000000/python.png" />](https://www.python.org/ "Python")
+[<img align="left" alt="NodeJS" width="25px" src="https://img.icons8.com/color/50/000000/nodejs.png" />](https://www.nodejs.org/ "NodeJS")
+[<img align="left" alt="React" width="25px" src="https://img.icons8.com/officel/50/000000/react.png" />](https://www.reactjs.org/ "React")
+[<img align="left" alt="Spring" width="25px" src="https://img.icons8.com/color/50/000000/spring-logo.png"/>](https://www.spring.io/ "Spring Framework")
+[<img align="left" alt="HTML5" width="25px" src="https://img.icons8.com/color/50/000000/html-5.png"/>](https://en.wikipedia.org/wiki/HTML5 "HTML5")
+[<img align="left" alt="CSS3" width="25px" src="https://img.icons8.com/color/50/000000/css3.png"/>](https://en.wikipedia.org/wiki/CSS "CSS3")
+[<img align="left" alt="Git" width="25px" src="https://img.icons8.com/color/50/000000/git.png"/>](https:://www.git-scm.com "Git")
+[<img align="left" alt="Github" width="25px" src="https://img.icons8.com/color/50/000000/github.png"/>](https://github.com/usefulmana "Github")
+[<img align="left" alt="AWS" width="25px" src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/>](https:://www.aws.amazon.com/ "AWS")
 
 <br/>
 

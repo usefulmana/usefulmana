@@ -23,17 +23,17 @@
 
 ### Languages and Tools:
 [<img align="left" alt="JavaScript" width="25px" src="https://img.icons8.com/color/50/000000/javascript.png" />](a "Javascript")
-<img align="left" alt="TypeScript" width="25px" src="https://img.icons8.com/color/50/000000/typescript.png" />
-<img align="left" alt="Java" width="25px" src="https://img.icons8.com/color/50/000000/java.png"/>
-<img align="left" alt="Python" width="25px" src="https://img.icons8.com/color/50/000000/python.png" />
-<img align="left" alt="NodeJS" width="25px" src="https://img.icons8.com/color/50/000000/nodejs.png" />
-<img align="left" alt="React" width="25px" src="https://img.icons8.com/officel/50/000000/react.png" />
-<img align="left" alt="Spring" width="25px" src="https://img.icons8.com/color/50/000000/spring-logo.png"/>
-<img align="left" alt="HTML5" width="25px" src="https://img.icons8.com/color/50/000000/html-5.png"/>
-<img align="left" alt="CSS3" width="25px" src="https://img.icons8.com/color/50/000000/css3.png"/>
-<img align="left" alt="Git" width="25px" src="https://img.icons8.com/color/50/000000/git.png"/>
-<img align="left" alt="Github" width="25px" src="https://img.icons8.com/color/50/000000/github.png"/>
-<img align="left" alt="AWS" width="25px" src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/>
+[<img align="left" alt="TypeScript" width="25px" src="https://img.icons8.com/color/50/000000/typescript.png" />](a "Typescript")
+[<img align="left" alt="Java" width="25px" src="https://img.icons8.com/color/50/000000/java.png"/>](a "Java")
+[<img align="left" alt="Python" width="25px" src="https://img.icons8.com/color/50/000000/python.png" />](a "Python")
+[<img align="left" alt="NodeJS" width="25px" src="https://img.icons8.com/color/50/000000/nodejs.png" />](a "NodeJS")
+[<img align="left" alt="React" width="25px" src="https://img.icons8.com/officel/50/000000/react.png" />](a "React")
+[<img align="left" alt="Spring" width="25px" src="https://img.icons8.com/color/50/000000/spring-logo.png"/>](a "Spring Framework")
+[<img align="left" alt="HTML5" width="25px" src="https://img.icons8.com/color/50/000000/html-5.png"/>](a "HTML5")
+[<img align="left" alt="CSS3" width="25px" src="https://img.icons8.com/color/50/000000/css3.png"/>](a "CSS3")
+[<img align="left" alt="Git" width="25px" src="https://img.icons8.com/color/50/000000/git.png"/>](a "Git")
+[<img align="left" alt="Github" width="25px" src="https://img.icons8.com/color/50/000000/github.png"/>](a "Github")
+[<img align="left" alt="AWS" width="25px" src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/>](a "AWS")
 
 <br/>
 

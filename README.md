@@ -29,11 +29,11 @@
 [<img align="left" alt="NodeJS" width="25px" src="https://img.icons8.com/color/50/000000/nodejs.png" />](https://www.nodejs.org/ "NodeJS")
 [<img align="left" alt="React" width="25px" src="https://img.icons8.com/officel/50/000000/react.png" />](https://www.reactjs.org/ "React")
 [<img align="left" alt="Spring" width="25px" src="https://img.icons8.com/color/50/000000/spring-logo.png"/>](https://www.spring.io/ "Spring Framework")
-[<img align="left" alt="HTML5" width="25px" src="https://img.icons8.com/color/50/000000/html-5.png"/>](https://en.wikipedia.org/wiki/HTML5 "HTML5")
-[<img align="left" alt="CSS3" width="25px" src="https://img.icons8.com/color/50/000000/css3.png"/>](https://en.wikipedia.org/wiki/CSS "CSS3")
-[<img align="left" alt="Git" width="25px" src="https://img.icons8.com/color/50/000000/git.png"/>](https://www.git-scm.com "Git")
-[<img align="left" alt="Github" width="25px" src="https://img.icons8.com/color/50/000000/github.png"/>](https://github.com/usefulmana "Github")
-[<img align="left" alt="AWS" width="25px" src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/>](https://www.aws.amazon.com/ "AWS")
+[<img align="left" alt="HTML5" width="25px" src="https://img.icons8.com/color/50/000000/html-5.png"/>](https://en.wikipedia.org/wiki/HTML5/ "HTML5")
+[<img align="left" alt="CSS3" width="25px" src="https://img.icons8.com/color/50/000000/css3.png"/>](https://en.wikipedia.org/wiki/CSS/ "CSS3")
+[<img align="left" alt="Git" width="25px" src="https://img.icons8.com/color/50/000000/git.png"/>](https://www.git-scm.com/ "Git")
+[<img align="left" alt="Github" width="25px" src="https://img.icons8.com/color/50/000000/github.png"/>](https://github.com/usefulmana/ "Github")
+[<img align="left" alt="AWS" width="25px" src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/>](https://aws.amazon.com/ "AWS")
 
 <br/>
 

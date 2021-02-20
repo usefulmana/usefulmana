@@ -22,7 +22,7 @@
 <br/>
 
 ### Languages and Tools:
-<img align="left" alt="JavaScript" width="25px" src="https://img.icons8.com/color/50/000000/javascript.png" />
+[<img align="left" alt="JavaScript" width="25px" src="https://img.icons8.com/color/50/000000/javascript.png" />](a "Javascript")
 <img align="left" alt="TypeScript" width="25px" src="https://img.icons8.com/color/50/000000/typescript.png" />
 <img align="left" alt="Java" width="25px" src="https://img.icons8.com/color/50/000000/java.png"/>
 <img align="left" alt="Python" width="25px" src="https://img.icons8.com/color/50/000000/python.png" />

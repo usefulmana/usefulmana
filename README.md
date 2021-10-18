@@ -42,10 +42,10 @@
 <br/>
 
 <!-- TODO-IST:START -->
-🏆  29,162 Karma Points           
-🌸  Completed 5 tasks today           
-🗓  Completed 64 tasks this week           
-✅  Completed 5,719 tasks so far           
+🏆  29,166 Karma Points           
+🌸  Completed 3 tasks today           
+🗓  Completed 3 tasks this week           
+✅  Completed 5,723 tasks so far           
 ⏳  Longest streak is 290 days
 <!-- TODO-IST:END -->
 
